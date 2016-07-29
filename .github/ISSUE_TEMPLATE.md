@@ -1,6 +1,6 @@
 ## URL
 
-https://www.ietf.org/
+https://www.ietf.org/[make sure to update this!]
 
 ## Expected Behavior
 
@@ -10,6 +10,8 @@ https://www.ietf.org/
 
 (include a screen shot if you like)
 
-## Browser, OS version
+## Reproducing
 
-(And anything else you think we might need to reproduce this)
+- Browser:
+- OS: [Operating System name] [Version]
+- (anything else you think we might need to reproduce this)
